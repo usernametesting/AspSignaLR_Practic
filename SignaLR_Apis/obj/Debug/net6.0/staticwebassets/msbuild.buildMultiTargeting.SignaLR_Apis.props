@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SignaLR_Apis.props" />
+</Project>
